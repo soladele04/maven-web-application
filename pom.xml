@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.250.128:8081/repository/Test-releases/</url>
+	      <url>http://18.117.155.169:4000/repository/ebay-Frontend-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.250.128:8081/repository/Test-snapshot/</url>
+	      <url>http://18.117.155.169:4000/repository/ebay-Frontend-Snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
